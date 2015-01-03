@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    background: url('../truck.png');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+
+    height: 1500px;
+}
+
+.nav li {
+    font-size: 3em;
+}
+
+.number{
+    color: white;
+    padding-right: 20px;
+}
+
+.quotes {
+    margin-top: 300px;
+}
+
+.author {
+    text-align: right;
+}
